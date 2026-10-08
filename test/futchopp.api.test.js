@@ -11,9 +11,11 @@ test('lista de times: 40 times, 20 na Série A e 20 na B, sem repetição', () =
   assert.equal(TEAMS[0].slug, 'flamengo'); // ordem "maiores torcidas primeiro" preservada
 });
 
-test('catálogo: preços iguais aos da referência (R$ 293,10 / R$ 500,00; 2 un = 1,8x)', () => {
-  assert.equal(catalog.product.price, 29310);
+test('catálogo: preços do teste (1 un = R$ 179,90; 2 un = R$ 359,90; riscado da referência)', () => {
+  assert.equal(catalog.product.price, 17990);
   assert.equal(catalog.product.compare_at_price, 50000);
+  assert.equal(catalog.product.kit2_price, 35990);
+  assert.equal(catalog.product.kit2_compare_at_price, 100000);
   assert.equal(catalog.product.slug, 'futchopp');
 });
 
