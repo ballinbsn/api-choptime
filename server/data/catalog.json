@@ -1,0 +1,306 @@
+{
+  "settings": {
+    "logo": "/img/futchopp-logo.png",
+    "banner_hero_desktop": "/img/store_banner_hero_desktop-1791241033510-iajsph.webp",
+    "banner_hero_mobile": "/img/store_banner_hero_mobile-1791241036689-ie5nad.webp",
+    "brand_color": "#000000",
+    "logo_white": "/img/futchopp-logo-white.png"
+  },
+  "product": {
+    "id": "e1357676-3007-4705-9b19-8fee9265140b",
+    "slug": "futchopp",
+    "name": "FutChopp™ - A Chopeira Oficial da Torcida + Nome Personalizado",
+    "description": "<h3 style=\"text-align: center;\"><font style=\"font-size: 18px; line-height: 1.5;\">A chopeira que todo torcedor gostaria de ter</font></h3><div><br></div><p style=\"text-align: center;\"><font style=\"line-height: 1.5; font-size: 16px;\">A FutChopp™ transforma sua área de lazer em ponto de encontro da torcida, unindo futebol, chope gelado e um visual inspirado nas clássicas bombas de combustível.</font></p><p style=\"text-align: center;\"><br></p><p><img draggable=\"false\" src=\"/img/3cef3b8b-39de-43c8-a623-87aef5a0fdc8.webp\" alt=\"\"></p><h3 style=\"text-align: center;\"><br></h3><h3 style=\"text-align: center;\"><font style=\"font-size: 18px; line-height: 1.5;\">Seu time no centro da resenha</font></h3><div><br></div><p style=\"text-align: center;\"><font style=\"font-size: 16px; line-height: 1.5;\">Escolha sua versão e leve as cores da sua paixão para o churrasco, piscina ou dia de jogo. Um produto feito para chamar atenção antes mesmo do primeiro copo.</font></p><p style=\"text-align: center;\"><br></p><p><video draggable=\"false\" src=\"/img/aab81973-b025-4df1-b3ec-bd3613e6fa50.mp4\" autoplay=\"\" muted=\"\" loop=\"\" playsinline=\"\"></video></p><p style=\"text-align: center;\"><br></p><h3 style=\"text-align: center;\"><font style=\"font-size: 18px; line-height: 1.5;\">Abasteça o copo e aproveite</font></h3><div><br></div><p style=\"text-align: center;\"><font style=\"font-size: 16px; line-height: 1.5;\">Coloque o barril compatível, conecte o sistema e sirva diretamente pelo bico da FutChopp™. Praticidade para deixar o chope pronto durante toda a resenha.</font></p><p style=\"text-align: center;\"><br></p><p><img draggable=\"false\" src=\"/img/c8de8c71-c87a-4673-afc3-be585c22f7f7.webp\" alt=\"\"></p><p style=\"text-align: center;\"><br></p><h3 style=\"text-align: center;\"><font style=\"font-size: 18px; line-height: 1.5;\">Características</font></h3><div><font style=\"font-size: 16px; line-height: 1.5;\"><br></font></div><p></p><div style=\"text-align: center;\"><span style=\"color: rgb(12, 19, 34); letter-spacing: 0px;\"><font style=\"font-size: 16px; line-height: 1.5;\">• Compatível com todos os barris</font></span></div><div style=\"text-align: center;\"><span style=\"color: rgb(12, 19, 34); letter-spacing: 0px;\"><font style=\"font-size: 16px; line-height: 1.5;\">• Sistema de refrigeração integrado</font></span></div><div style=\"text-align: center;\"><span style=\"color: rgb(12, 19, 34); letter-spacing: 0px;\"><font style=\"font-size: 16px; line-height: 1.5;\">• Mangueira com bico estilo bomba de combustível</font></span></div><div style=\"text-align: center;\"><span style=\"color: rgb(12, 19, 34); letter-spacing: 0px;\"><font style=\"font-size: 16px; line-height: 1.5;\">• Marcador digital de litros em LED</font></span></div><div style=\"text-align: center;\"><span style=\"color: rgb(12, 19, 34); letter-spacing: 0px;\"><font style=\"font-size: 16px; line-height: 1.5;\">• Compartimento traseiro para troca do barril</font></span></div><div style=\"text-align: center;\"><span style=\"color: rgb(12, 19, 34); letter-spacing: 0px;\"><font style=\"font-size: 16px; line-height: 1.5;\">• Diferentes versões de times</font></span></div><div style=\"text-align: center;\"><span style=\"color: rgb(12, 19, 34); letter-spacing: 0px;\"><font style=\"font-size: 16px; line-height: 1.5;\">• Design retrô exclusivo FutChopp™<br></font></span><span style=\"color: rgb(12, 19, 34); font-size: 16px;\">• Energia: Bivolt</span></div><p></p>",
+    "benefits": "Feito pra quem tem orgulho do próprio time e gosta de receber os amigos de uma forma especial. Personalize seu FutChopp e garanta a resenha da galera toda.",
+    "price": 29310,
+    "category": "streetwear",
+    "image_url": "/img/b1a2e4b3-51a2-4fe9-8d5e-2492ecb72be9.webp",
+    "images": [
+      "/img/b1a2e4b3-51a2-4fe9-8d5e-2492ecb72be9.webp",
+      "/img/08edb492-f940-4997-8a40-8d6df95dbe5e.webp",
+      "/img/83290267-169e-4684-8c3b-bfcb4265b4f3.webp",
+      "/img/488834f7-755b-4a30-82f3-835073ac5773.webp",
+      "/img/a2d46b0a-4088-4e28-9da0-eb4ca54e6707.webp"
+    ],
+    "sizes": [],
+    "badge": null,
+    "checkout_url": null,
+    "testimonials": [
+      {
+        "name": "Ricardo Almeida",
+        "text": "Sou flamenguista doente então nem preciso falar kkk ficou perfeita aqui em casa cerveja geladinha e resenha garantida",
+        "photo": "/img/testimonials_736825c8-d1a0-4dc2-879b-b3b24e5a2aea.webp",
+        "rating": 5
+      },
+      {
+        "name": "Marcelo Nunes",
+        "text": "Chegou aqui e eu ja coloquei pra funcionar no mesmo dia kkk ficou coisa de maluco na area da churrasqueira",
+        "photo": "/img/testimonials_153f0b82-765e-4f57-8b4e-0b7c03827b5e.webp",
+        "rating": 5
+      },
+      {
+        "name": "André Luiz",
+        "text": "Meu veio essa aqui foi uma das melhores coisas que ja comprei pra area de lazer kkk todo mundo quer usar",
+        "photo": "/img/testimonials_3a14d68f-2383-4550-a18b-5e092da66541.webp",
+        "rating": 5
+      },
+      {
+        "name": "Carlos Henrique",
+        "text": "Achei que ia ser menor pelas fotos mas ela é grandona mesmo ficou top demais do lado da churrasqueira",
+        "photo": "/img/testimonials_a534e153-abe5-4000-85d4-dd7ac87a6b5f.webp",
+        "rating": 5
+      }
+    ],
+    "compare_at_price": 50000,
+    "variants": {
+      "types": [],
+      "enabled": false,
+      "combinations": []
+    },
+    "offer_mode": "kit2",
+    "gift_image_url": null,
+    "active": true
+  },
+  "teams": [
+    {
+      "serie": "A",
+      "slug": "flamengo",
+      "name": "Flamengo",
+      "crest": "/__l5e/assets-v1/be7c01b1-e566-4c48-88ae-317058c39975/futchopp-flamengo.png"
+    },
+    {
+      "serie": "A",
+      "slug": "corinthians",
+      "name": "Corinthians",
+      "crest": "/__l5e/assets-v1/e56df0c7-94ec-4900-a17e-32d78820e6f5/futchopp-corinthians.png"
+    },
+    {
+      "serie": "A",
+      "slug": "palmeiras",
+      "name": "Palmeiras",
+      "crest": "/__l5e/assets-v1/051881f1-ecc7-4b07-a054-4f9e2ec6c07b/futchopp-palmeiras.png"
+    },
+    {
+      "serie": "A",
+      "slug": "sao-paulo",
+      "name": "São Paulo",
+      "crest": "/__l5e/assets-v1/512d1b56-6148-488e-ab93-4e30ce083c29/futchopp-sao-paulo.png"
+    },
+    {
+      "serie": "A",
+      "slug": "cruzeiro",
+      "name": "Cruzeiro",
+      "crest": "/__l5e/assets-v1/260b8fed-c6af-4f3a-828e-c0350866fae6/futchopp-cruzeiro.png"
+    },
+    {
+      "serie": "A",
+      "slug": "internacional",
+      "name": "Internacional",
+      "crest": "/__l5e/assets-v1/20309a1f-d62c-470b-b547-b193113f1790/futchopp-internacional.png"
+    },
+    {
+      "serie": "A",
+      "slug": "gremio",
+      "name": "Grêmio",
+      "crest": "/__l5e/assets-v1/82e53e1a-f843-43f6-a8ac-94ff31d1983a/futchopp-gremio.png"
+    },
+    {
+      "serie": "A",
+      "slug": "atletico-mg",
+      "name": "Atlético-MG",
+      "crest": "/__l5e/assets-v1/450ba866-1d36-4a20-b500-c9f9ff638020/futchopp-atletico-mg.png"
+    },
+    {
+      "serie": "A",
+      "slug": "santos",
+      "name": "Santos",
+      "crest": "/__l5e/assets-v1/492805b3-90d0-410f-b679-3439d35fa1b6/futchopp-santos.png"
+    },
+    {
+      "serie": "A",
+      "slug": "vasco",
+      "name": "Vasco",
+      "crest": "/__l5e/assets-v1/ac5bbff6-20c8-4559-b329-38c9bb0c57f8/futchopp-vasco.png"
+    },
+    {
+      "serie": "A",
+      "slug": "bahia",
+      "name": "Bahia",
+      "crest": "/__l5e/assets-v1/b7841b83-97d4-491d-9067-c3f21e19c11f/futchopp-bahia.png"
+    },
+    {
+      "serie": "A",
+      "slug": "botafogo",
+      "name": "Botafogo",
+      "crest": "/__l5e/assets-v1/6662ac01-1e7d-4fbf-ade0-807f92c29813/futchopp-botafogo.png"
+    },
+    {
+      "serie": "A",
+      "slug": "fluminense",
+      "name": "Fluminense",
+      "crest": "/__l5e/assets-v1/fc056b96-da1a-4423-9a41-2e39a5c00b3a/futchopp-fluminense.png"
+    },
+    {
+      "serie": "A",
+      "slug": "athletico-pr",
+      "name": "Athletico-PR",
+      "crest": "/__l5e/assets-v1/6a3c1415-cd1d-4a2d-898c-c516493a1cfa/futchopp-athletico-pr.png"
+    },
+    {
+      "serie": "A",
+      "slug": "vitoria",
+      "name": "Vitória",
+      "crest": "/__l5e/assets-v1/a099a27f-7b1f-4490-a04a-aa19c91379bd/futchopp-vitoria.png"
+    },
+    {
+      "serie": "A",
+      "slug": "coritiba",
+      "name": "Coritiba",
+      "crest": "/__l5e/assets-v1/59821d9e-d6ed-45d4-9598-5be04345fb22/futchopp-coritiba.png"
+    },
+    {
+      "serie": "A",
+      "slug": "remo",
+      "name": "Remo",
+      "crest": "/__l5e/assets-v1/eaf80f21-83dd-450d-950d-6e724a6be6f3/futchopp-remo.png"
+    },
+    {
+      "serie": "A",
+      "slug": "chapecoense",
+      "name": "Chapecoense",
+      "crest": "/__l5e/assets-v1/7543bb3c-72bb-4a5c-9726-df1f2bd0fbdd/futchopp-chapecoense.png"
+    },
+    {
+      "serie": "A",
+      "slug": "bragantino",
+      "name": "Bragantino",
+      "crest": "/__l5e/assets-v1/70e9b666-4b4f-42d3-b1f8-a9fd7eca0fc4/futchopp-bragantino.png"
+    },
+    {
+      "serie": "A",
+      "slug": "mirassol",
+      "name": "Mirassol",
+      "crest": "/__l5e/assets-v1/2d552df1-e2b2-4aea-9426-97ea85520c67/futchopp-mirassol.png"
+    },
+    {
+      "serie": "B",
+      "slug": "fortaleza",
+      "name": "Fortaleza",
+      "crest": "/__l5e/assets-v1/52415cad-e3a2-408b-802b-86bc324aa635/futchopp-fortaleza.png"
+    },
+    {
+      "serie": "B",
+      "slug": "ceara",
+      "name": "Ceará",
+      "crest": "/__l5e/assets-v1/c4155ff7-98d4-4363-9211-5464cf906583/futchopp-ceara.png"
+    },
+    {
+      "serie": "B",
+      "slug": "sport",
+      "name": "Sport",
+      "crest": "/__l5e/assets-v1/cce82b7b-5c70-4080-9977-4c2b6eb83618/futchopp-sport.png"
+    },
+    {
+      "serie": "B",
+      "slug": "goias",
+      "name": "Goiás",
+      "crest": "/__l5e/assets-v1/4beb1a65-6e30-4ea3-a20d-9f68a99b77ea/futchopp-goias.png"
+    },
+    {
+      "serie": "B",
+      "slug": "america-mg",
+      "name": "América-MG",
+      "crest": "/__l5e/assets-v1/6be07e6e-3486-4f41-beca-6da4e4bda707/futchopp-america-mg.png"
+    },
+    {
+      "serie": "B",
+      "slug": "atletico-go",
+      "name": "Atlético-GO",
+      "crest": "/__l5e/assets-v1/5ff08ef1-eae8-4255-85e9-86698334cb44/futchopp-atletico-go.png"
+    },
+    {
+      "serie": "B",
+      "slug": "avai",
+      "name": "Avaí",
+      "crest": "/__l5e/assets-v1/a6fea63e-5635-46d8-9b93-1dad2d934ea5/futchopp-avai.png"
+    },
+    {
+      "serie": "B",
+      "slug": "criciuma",
+      "name": "Criciúma",
+      "crest": "/__l5e/assets-v1/813db5c4-0dbf-439a-a190-0c7c492cd810/futchopp-criciuma.png"
+    },
+    {
+      "serie": "B",
+      "slug": "nautico",
+      "name": "Náutico",
+      "crest": "/__l5e/assets-v1/af50fe86-fade-4a9f-94df-8f2c1ec7144d/futchopp-nautico.png"
+    },
+    {
+      "serie": "B",
+      "slug": "crb",
+      "name": "CRB",
+      "crest": "/__l5e/assets-v1/f5d3338c-9e8f-4fe4-b59b-f98cee83832f/futchopp-crb.png"
+    },
+    {
+      "serie": "B",
+      "slug": "vila-nova",
+      "name": "Vila Nova",
+      "crest": "/__l5e/assets-v1/35ba742a-a37d-444a-be58-278a96aec74a/futchopp-vila-nova.png"
+    },
+    {
+      "serie": "B",
+      "slug": "ponte-preta",
+      "name": "Ponte Preta",
+      "crest": "/__l5e/assets-v1/b66035b9-ca33-4d2c-b02f-a334dbc55803/futchopp-ponte-preta.png"
+    },
+    {
+      "serie": "B",
+      "slug": "cuiaba",
+      "name": "Cuiabá",
+      "crest": "/__l5e/assets-v1/ea4af369-c527-4ff0-a2dc-0d4004437a75/futchopp-cuiaba.png"
+    },
+    {
+      "serie": "B",
+      "slug": "juventude",
+      "name": "Juventude",
+      "crest": "/__l5e/assets-v1/57ed8eec-c860-48cf-97a2-eff8ac301928/futchopp-juventude.png"
+    },
+    {
+      "serie": "B",
+      "slug": "operario-pr",
+      "name": "Operário-PR",
+      "crest": "/__l5e/assets-v1/784c80c6-0c31-4964-981a-fab36e9dfc12/futchopp-operario-pr.png"
+    },
+    {
+      "serie": "B",
+      "slug": "botafogo-sp",
+      "name": "Botafogo-SP",
+      "crest": "/__l5e/assets-v1/919fa16f-3afd-4a05-83b3-f722ab532d12/futchopp-botafogo-sp.png"
+    },
+    {
+      "serie": "B",
+      "slug": "londrina",
+      "name": "Londrina",
+      "crest": "/__l5e/assets-v1/43c5e6d4-42a4-4e93-ad1c-c706f493235e/futchopp-londrina.png"
+    },
+    {
+      "serie": "B",
+      "slug": "athletic-mg",
+      "name": "Athletic",
+      "crest": "/__l5e/assets-v1/d068deda-7aeb-4bac-8b47-6edeb34196e5/futchopp-athletic-mg.png"
+    },
+    {
+      "serie": "B",
+      "slug": "novorizontino",
+      "name": "Novorizontino",
+      "crest": "/__l5e/assets-v1/fc38faf0-2205-4999-ba7d-a4ef868742a9/futchopp-novorizontino.png"
+    },
+    {
+      "serie": "B",
+      "slug": "sao-bernardo",
+      "name": "São Bernardo",
+      "crest": "/__l5e/assets-v1/283901c2-8d51-4b5d-a270-a929423c08c7/futchopp-sao-bernardo.png"
+    }
+  ]
+}

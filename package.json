@@ -1,0 +1,18 @@
+{
+  "name": "api-choptime",
+  "version": "1.0.0",
+  "private": true,
+  "description": "API do FutChopp (teste A/B): pedidos com time/série/nome, Pix pela Adex, webhook e rastreio (UTMify; Meta opcional).",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node --env-file-if-exists=.env server/index.js",
+    "dev": "node --watch --env-file-if-exists=.env server/index.js",
+    "test": "node --test test/*.test.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
